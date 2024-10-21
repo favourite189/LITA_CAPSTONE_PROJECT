@@ -8,19 +8,39 @@ Data gotten from a retail store to analyzes the sales performance
 
 ## DATA COLLECTED
 They are 7 column in the data
-##### ORDERID
+- .**ORDERID**
 They are unique identification of orders done in the store per orders
-##### CUSTOMERS_ID
+- . **CUSTOMERSID**
 They are unique identification number of each customers who purchase from the store
-##### PRODUCT
+- .**PRODUCT**
 The goods customer brought from the store
-##### REGION
+- .**REGION**
 
-##### ORDER DATE
+- .**ORDER DATE**
 The date of when the goods was purchased from the customers
-##### QUANTITY
+ - .**QUANTITY**
 Unit sold purchased by customer from the store
-##### UNIT PRICE
+- .**UNIT PRICE**
 The price of unit sold purchased by the customer
 
 ## DATA TOOLS
+- Microsoft excel 
+(Pivot table)
+- SQL
+-  Power Bi 
+## Data cleaning
+The first process is to clean the Data
+
+ 
+## PROJECT INSIGHT USING SQL
+ **WRITING MY QUERIES TO EXTRACT KEY INSIGHT FROM THE FOLLOWING QUESTIONS**,
+- 1.retrieve the total sales for each product category
+- 2.findthe number of sales transactions in each region
+- 3.find the highest-selling products by total sales value
+- 4.calculate total revenue per product
+- 5.calculate monthly sales totals for the current year 
+- 6.find the top 5 customers by total purchase amount
+- 7.calculating the percentage of total sales contributed by each regions
+- 8.identify products with no sales in the last quarter
+  
+

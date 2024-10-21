@@ -44,14 +44,21 @@ The first process
 - 8.identify products with no sales in the last quarter
 
   ## SQL CODES
-  **FIRSTLY**
+  #### FIRSTLY
  - . Load my data into my sql server and check my data types
 - ``
   select * from salestable
   ``To retrieve my data loaded into my sql studio
 - . inspecting my data incase of any miss numbers
-  **SECONDLY**
-  WRITE MY CODES FROM MY INSIGHT PROVI
+  #### SECONDLY
+ - . WRITE MY QUERY FOR EACH QUESTION
+- .**QUESTION ONE**
+  - ._retrieve the total sales for each product category_
+- ``select product,
+sum(quantity)as totalsalesproduct
+from[dbo].[sales table]
+group by product``
+
   
   
   

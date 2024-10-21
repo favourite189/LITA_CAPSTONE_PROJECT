@@ -7,7 +7,7 @@ The  aim of the project is to explore sales data and generate key insights such 
 Data gotten from a retail store to analyzes the sales performance
 
 ## DATA COLLECTED
-They are 7 column in the data
+They are 7 columns in the data
 - .**ORDERID**
 They are unique identification of orders done in the store per orders
 - . **CUSTOMERSID**
@@ -29,7 +29,7 @@ The price of unit sold purchased by the customer
 - SQL
 -  Power Bi 
 ## Data cleaning
-The first process is to clean the Data
+The first process 
 
  
 ## PROJECT INSIGHT USING SQL
@@ -42,5 +42,17 @@ The first process is to clean the Data
 - 6.find the top 5 customers by total purchase amount
 - 7.calculating the percentage of total sales contributed by each regions
 - 8.identify products with no sales in the last quarter
+
+  ## SQL CODES
+  **FIRSTLY**
+ - . Load my data into my sql server and check my data types
+- ``
+  select * from salestable
+  ``To retrieve my data loaded into my sql studio
+- . inspecting my data incase of any miss numbers
+  **SECONDLY**
+  WRITE MY CODES FROM MY INSIGHT PROVI
+  
+  
   
 

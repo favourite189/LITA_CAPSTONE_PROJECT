@@ -54,10 +54,17 @@ The first process
  - . WRITE MY QUERY FOR EACH QUESTION
 - .**QUESTION ONE**
   - ._retrieve the total sales for each product category_
-- ``select product,
+  ``sql
+select product,
 sum(quantity)as totalsalesproduct
-from[dbo].[sales table]
-group by product``
+from[dbo].[sales data]
+group by product
+
+
+
+  
+
+
 
   
   

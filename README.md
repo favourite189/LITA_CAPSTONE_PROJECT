@@ -43,7 +43,8 @@ total revenue by region
  -  **SECONDSTEP**
   USING PIVOT TABLE TO SUMMARIZE
   - _TOTAL SALES BY REGION_
-![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-10%20100626.png)
+![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-23%20024915.png)
+- _TOTAL SALES BY MONTH_
 
 
 

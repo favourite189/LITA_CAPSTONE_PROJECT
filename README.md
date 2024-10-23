@@ -45,7 +45,7 @@ total revenue by region
   - _TOTAL SALES BY REGION_
 ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-23%20024915.png)
 - _TOTAL SALES BY MONTH_
-![image alt](https://github.com/favourite189/LITA_C)
+![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-23%20024352.png)
   
 
 

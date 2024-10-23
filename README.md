@@ -28,8 +28,25 @@ The price of unit sold purchased by the customer
 (Pivot table)
 - SQL
 -  Power Bi 
-## Data cleaning
-The first process 
+## PROJECT INSIGHT USING EXCEL
+- Perform an initial exploration of the sales data. Use pivot tables to summarize
+total sales by product, region, and month
+
+- Use Excel formulas to calculate metrics such as average sales per product and
+total revenue by region
+
+- Create any other interesting report
+  ## ANALYSE DATA USING EXCEL
+  **FIRSTSTEP**
+  - 1Load my data into my excel workbook
+  - 2clean my data by checking how many data on my table,remove duplicate and change my data type
+ -  **SECONDSTEP**
+  USING PIVOT TABLE TO SUMMARIZE
+  - _TOTAL SALES BY PRODUCT_
+
+
+
+
 
  
 ## PROJECT INSIGHT USING SQL

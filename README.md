@@ -71,7 +71,7 @@ total revenue by region
   ``To retrieve my data loaded into my sql studio
 - . inspecting my data incase of any miss numbers
   #### SECONDLY
- - . WRITE MY QUERY FOR EACH QUESTION
+ - . WRITE MY QUERY FOR EACH QUESTION AND ACCESS MY QUERY FROM MY FILE
 - .**QUESTION ONE**
   - ._retrieve the total sales for each product category_
   ``SQL

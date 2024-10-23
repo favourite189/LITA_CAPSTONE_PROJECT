@@ -42,7 +42,8 @@ total revenue by region
   - 2clean my data by checking how many data on my table,remove duplicate and change my data type
  -  **SECONDSTEP**
   USING PIVOT TABLE TO SUMMARIZE
-  - _TOTAL SALES BY PRODUCT_
+  - _TOTAL SALES BY REGION_
+![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-10%20100626.png)
 
 
 

@@ -72,14 +72,14 @@ total revenue by region
 - . inspecting my data incase of any miss numbers
   #### SECONDLY
  - . WRITE MY QUERY FOR EACH QUESTION AND ACCESS MY QUERY FROM MY FILE
-- .**QUESTION ONE**
-  - ._retrieve the total sales for each product category_
-  ``SQL
-SELECT PRODUCT,
-SUM(QUANTITY)AS TOTALSALESPRODUCT
-FROM[dbo].[sales data]
-GROUP BY PRODUCT
-``
+ - [QUERY.SQL](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/commit/36575757264693efcbfdf1de9e78159aa95c6800)
+
+  ## PROJECT INSIGHT USING POWERBI
+  
+  
+
+
+
 
 
 

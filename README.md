@@ -74,11 +74,13 @@ total revenue by region
  - . WRITE MY QUERY FOR EACH QUESTION
 - .**QUESTION ONE**
   - ._retrieve the total sales for each product category_
-  ``sql
-select product,
-sum(quantity)as totalsalesproduct
-from[dbo].[sales data]
-group by product
+  ``SQL
+SELECT PRODUCT,
+SUM(QUANTITY)AS TOTALSALESPRODUCT
+FROM[dbo].[sales data]
+GROUP BY PRODUCT
+``
+
 
 
 

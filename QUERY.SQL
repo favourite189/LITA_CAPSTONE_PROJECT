@@ -34,7 +34,6 @@ sum(REVENUE) as totalrevenue
 from[dbo].[sales data]
 group by product
 ``
-
 ----question 5----
 calculate monthly sales totals for the current year 
 ```SQL

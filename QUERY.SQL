@@ -36,12 +36,12 @@ group by product
 ``
 
 ----question 5----
-5.calculate monthly sales totals for the current year 
+calculate monthly sales totals for the current year 
 ```SQL
 alter table[dbo].[sales data]
 add ordermonth nvarchar(50)
 ``
-``
+``SQL
 update[dbo].[sales data]
 set ordermonth = datename(month,orderdate)
 ``
@@ -49,11 +49,11 @@ set ordermonth = datename(month,orderdate)
 alter table[dbo].[sales data]
 add orderyear int
 ``
-``
+``SQL
 update [dbo].[sales data]
 set orderyear =year(orderdate)
 ``
-``
+``SQL
 select * from[dbo].[sales data]
 ``
 

@@ -44,14 +44,17 @@ total revenue by region
   USING PIVOT TABLE TO SUMMARIZE
   - _TOTAL SALES BY REGION_
        ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/image.png)
-
+- _TOTAL SALES BY PRODUCT_
     ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-24%20032016.png)
+
+ - _TOTAL SALES BY MONTHS_
+ - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-24%20033352.png)
  -  AVERAGE SALES BY PRODUCT
-  ``=AVERAGEIF(Table2[[#All],[Product]],"gloves",Table2[[#All],[Quantity]])
-  =AVERAGEIF(Table2[[#All],[Product]],"hat",Table2[[#All],[Quantity]])
-  =AVERAGEIF(Table2[[#All],[Product]],"shoes",Table2[[#All],[Quantity]])
-  =AVERAGEIF(Table2[[#All],[Product]],"shirt",Table2[[#All],[Quantity]])
-  =AVERAGEIF(Table2[[#All],[Product]],"jacket",Table2[[#All],[Quantity]])
+  ``=AVERAGEIF(Table2[[#All],[Product]],"gloves",Table2[[#All],[REVENUE]])
+  =AVERAGEIF(Table2[[#All],[Product]],"hat",Table2[[#All],[REVENUE]])
+  =AVERAGEIF(Table2[[#All],[Product]],"shoes",Table2[[#All],[REVENUE]])
+  =AVERAGEIF(Table2[[#All],[Product]],"shirt",Table2[[#All],[REVENUE]])
+  =AVERAGEIF(Table2[[#All],[Product]],"jacket",Table2[[#All],[REVENUE]])
   ``
 
 

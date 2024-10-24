@@ -1,6 +1,6 @@
 
 ---question 1----
-Retrieve the total sales for each product category
+-----Retrieve the total sales for each product category
 ``SQL
 select product,
 sum(REVENUE)as totalsalesproduct
@@ -8,7 +8,7 @@ from[dbo].[sales data]
 group by product
 ``
 ----question 2----
-find the number of sales transactions in each region
+-----find the number of sales transactions in each region
 ``SQL
 select region,
 sum( REVENUE)as sales_transactions
@@ -17,7 +17,7 @@ group by region
 ``
 
 -----question 3----
-find the highest-selling products by total sales value
+----find the highest-selling products by total sales value
 ``SQL
 select product,
 sum (REVENUE) as totalsales
@@ -27,7 +27,7 @@ order by product desc
 ``
 
 ----question 4----
-calculate total revenue per product
+----calculate total revenue per product
 ``SQL
 select product,
 sum(REVENUE) as totalrevenue
@@ -35,8 +35,8 @@ from[dbo].[sales data]
 group by product
 ``
 ----question 5----
-calculate monthly sales totals for the current year 
-```SQL
+---calculate monthly sales totals for the current year 
+``SQL
 alter table[dbo].[sales data]
 add ordermonth nvarchar(50)
 ``
@@ -65,7 +65,7 @@ group by ordermonth
 ``
 
 ----question 6-----
-find the top 5 customers by total purchase amount
+-----find the top 5 customers by total purchase amount
 ``SQL
 select top 5 customers_id,
 sum(REVENUE)as totalpurchase
@@ -75,16 +75,16 @@ order by totalpurchase desc
 ``
 
 ------QUESTION 7-----
-calculating the percentage of total sales contributed by each regions
+---calculating the percentage of total sales contributed by each regions
 ``SQL
 SELECT REGION,
-SUM(REVENUE)/SUM(QUANTITY) *0.1 AS PERCENTAGE_OF_TOTAL_SALES
+SUM(REVENUE) *0.1 AS PERCENTAGE_OF_TOTAL_SALES
 FROM[dbo].[sales data]
 GROUP BY REGION
 ``
 
 ----QUESTION 8---
-identify products with no sales in the last quarter
+---identify products with no sales in the last quarter
 ``SQL
 SELECT PRODUCT,
 SUM(REVENUE)AS SALES

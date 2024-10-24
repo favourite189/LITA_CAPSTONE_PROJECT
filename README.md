@@ -43,7 +43,7 @@ total revenue by region
  -  **SECONDSTEP**
   USING PIVOT TABLE TO SUMMARIZE
   - _TOTAL SALES BY REGION_
-       
+       ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/image.png)
  -  AVERAGE SALES BY PRODUCT
   ``=AVERAGEIF(Table2[[#All],[Product]],"gloves",Table2[[#All],[Quantity]])
   =AVERAGEIF(Table2[[#All],[Product]],"hat",Table2[[#All],[Quantity]])

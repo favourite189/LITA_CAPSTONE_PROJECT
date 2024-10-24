@@ -22,6 +22,8 @@ The date of when the goods was purchased from the customers
 Unit sold purchased by customer from the store
 - .**UNIT PRICE**
 The price of unit sold purchased by the customer
+- .**REVENUE**
+  unit sold multiply by unit price
 
 ## DATA TOOLS
 - Microsoft excel 
@@ -56,10 +58,13 @@ total revenue by region
   =AVERAGEIF(Table2[[#All],[Product]],"shirt",Table2[[#All],[REVENUE]])
   =AVERAGEIF(Table2[[#All],[Product]],"jacket",Table2[[#All],[REVENUE]])
   ``
-
-
-
-
+- TOTAL REVENUE BY REGION
+- ``=SUMIF(Table2[[#All],[Region]],"NORTH",Table2[[#All],[REVENUE]])
+=SUMIF(Table2[[#All],[Region]],"SOUTH",Table2[[#All],[REVENUE]])
+=SUMIF(Table2[[#All],[Region]],"EAST",Table2[[#All],[REVENUE]])
+=SUMIF(Table2[[#All],[Region]],"WEST",Table2[[#All],[REVENUE]])
+=J15+J16+J17+J18
+``
  
 ## PROJECT INSIGHT USING SQL
  **WRITING MY QUERIES TO EXTRACT KEY INSIGHT FROM THE FOLLOWING QUESTIONS**,

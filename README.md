@@ -51,6 +51,9 @@ total revenue by region
 
  - _TOTAL SALES BY MONTHS_
  - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-24%20033352.png)
+
+ - _TOTAL SALES BY YEAR_
+   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-24%20074742.png)
  -  AVERAGE SALES BY PRODUCT
   ``=AVERAGEIF(Table2[[#All],[Product]],"gloves",Table2[[#All],[REVENUE]])
   =AVERAGEIF(Table2[[#All],[Product]],"hat",Table2[[#All],[REVENUE]])
@@ -77,15 +80,15 @@ total revenue by region
 - 7.calculating the percentage of total sales contributed by each regions
 - 8.identify products with no sales in the last quarter
 
-  ## SQL CODES
+  ## ANALYZE DATA USING SQL
   #### FIRSTLY
- - . Load my data into my sql server and check my data types
+ - import my data into my sql server and check my data types
 - ``
-  select * from salestable
+  select * from sales data
   ``To retrieve my data loaded into my sql studio
 - . inspecting my data incase of any miss numbers
   #### SECONDLY
- - . WRITE MY QUERY FOR EACH QUESTION AND ACCESS MY QUERY FROM MY FILE
+ - HERE IS MY SQL QUERIES
  - [QUERY.SQL](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/commit/36575757264693efcbfdf1de9e78159aa95c6800)
 
   ## PROJECT INSIGHT USING POWERBI

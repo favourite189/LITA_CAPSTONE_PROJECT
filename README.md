@@ -93,6 +93,7 @@ total revenue by region
 
   ## PROJECT INSIGHT USING POWERBI
   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20105009.png)
+  ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20110023.png)
   
 
 

@@ -92,7 +92,7 @@ total revenue by region
  - [QUERY.SQL](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/commit/36575757264693efcbfdf1de9e78159aa95c6800)
 
   ## PROJECT INSIGHT USING POWERBI
-  
+  ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20105009.png)
   
 
 

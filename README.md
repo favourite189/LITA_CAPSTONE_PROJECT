@@ -95,6 +95,62 @@ total revenue by region
   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20105009.png)
   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20110023.png)
   
+### KEY INSIGHT
+-  Shoes generate the most revenue   
+-  2023 is the best-performing year
+ - February is the top-performing month
+- South region has the highest sales region
+ 
+- **PRODUCT SALES BY REGION**
+1. South region:
+    - Shoes: Highest sales
+    - Gloves: Second-highest sales
+    - Socks: Third-highest sales
+2. North:
+    - Shirts: Highest sales
+    - Shoes: Second-highest sales
+3. West:
+    - hat: Highest sales
+4. East:
+    - Jackets: Highest sales
+
+**Targeting Strategies by Region**
+
+1. South:
+    - Increase shoe sales through targeted marketing campaigns
+    - Promote gloves and socks to maintain second and third positions
+    - Explore opportunities to grow other product categories
+2. North:
+    - Focus on shirt sales, leveraging existing demand
+    - Promote shoes to increase sales and challenge South's dominance
+3. West:
+    - Continue promoting hat products to maintain regional lead
+    - Expand product offerings to diversify revenue streams
+4. East:
+    - Target jacket sales through targeted marketing campaigns
+    - Identify opportunities to grow other product categories
+ 
+**Improvement Areas**
+
+1. South:
+    - Increase sales of non-shoe products (e.g., socks, gloves)
+    - Explore new markets within the region
+2. North:
+    - Improve shoe sales to challenge South's dominance
+    - Expand product offerings beyond shirts
+
+3. West:
+    - Diversify product categories beyond art
+    - Increase sales in other regions
+4. East:
+    - Grow sales of non-jacket products
+    - Target new customer segments
+
+**RECOMMENDATIONS**
+1. Conduct market research to identify trends and preferences.
+2. Monitor competitor performance.
+3. Adjust pricing strategies.
+4. Optimize inventory management.
 
 
 

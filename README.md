@@ -1,4 +1,4 @@
-#  PROJECT TITLE : SALES DATA
+![image](https://github.com/user-attachments/assets/68604c3b-987f-46fd-9f93-bf16aed2488e)![image](https://github.com/user-attachments/assets/213288b4-4f8d-4fea-91da-7fe297dc2b47)![image](https://github.com/user-attachments/assets/6e2e413b-8950-4b69-8dbe-2135165bccde)#  PROJECT TITLE : SALES DATA
 
 ## PROJECT SUMMARY
 The  aim of the project is to explore sales data and generate key insights such as top-selling products,regional performance,and monthly sales trends into the sales performance of a retail store ,By analyzing the various parameters in the data received we seek to gather enough to make reasonable decisions which then enable us to tell compelling stories around our data from insight gotten and to know the best performance from our data
@@ -96,6 +96,7 @@ total revenue by region
   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20110023.png)
   
 ### KEY INSIGHT
+- Total revenue= 2,101,090 
 -  Shoes generate the most revenue   
 -  2023 is the best-performing year
  - February is the top-performing month
@@ -103,16 +104,19 @@ total revenue by region
  
 - **PRODUCT SALES BY REGION**
 1. South region:
-    - Shoes: Highest sales
-    - Gloves: Second-highest sales
-    - Socks: Third-highest sales
+    - Shoes: Highest sales 546,300 
+    - Gloves: Second-highest sales 247,600 
+    - Socks: Third-highest sales 133,920 
 2. North:
-    - Shirts: Highest sales
-    - Shoes: Second-highest sales
+    - Shirts: Highest sales =248,000 
+    - jacket: Second-highest sales= 104,280 
 3. West:
-    - hat: Highest sales
+    - hat: Highest sales= 174,300 
 4. East:
-    - Jackets: Highest sales
+    - shirts: Highest sales= 237,600 
+ 
+
+
 
 **Targeting Strategies by Region**
 
@@ -122,12 +126,12 @@ total revenue by region
     - Explore opportunities to grow other product categories
 2. North:
     - Focus on shirt sales, leveraging existing demand
-    - Promote shoes to increase sales and challenge South's dominance
+    - Promote jacket brands to increase sales and challenge South's dominance
 3. West:
     - Continue promoting hat products to maintain regional lead
     - Expand product offerings to diversify revenue streams
 4. East:
-    - Target jacket sales through targeted marketing campaigns
+    - Target shirt sales through targeted marketing campaigns
     - Identify opportunities to grow other product categories
  
 **Improvement Areas**

@@ -91,9 +91,10 @@ total revenue by region
  - HERE IS MY SQL QUERIES
  - [QUERY.SQL](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/commit/36575757264693efcbfdf1de9e78159aa95c6800)
 
-  ## PROJECT INSIGHT USING POWERBI
+  ## visualization report using powerbi
   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20105009.png)
   ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-28%20110023.png)
+  ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT/blob/main/Screenshot%202024-10-31%20072019.png)
   
 ### KEY INSIGHT
 - Total revenue= 2,101,090 

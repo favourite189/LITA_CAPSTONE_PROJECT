@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68604c3b-987f-46fd-9f93-bf16aed2488e)![image](https://github.com/user-attachments/assets/213288b4-4f8d-4fea-91da-7fe297dc2b47)![image](https://github.com/user-attachments/assets/6e2e413b-8950-4b69-8dbe-2135165bccde)#  PROJECT TITLE : SALES DATA
+  PROJECT TITLE : SALES DATA
 
 ## PROJECT SUMMARY
 The  aim of the project is to explore sales data and generate key insights such as top-selling products,regional performance,and monthly sales trends into the sales performance of a retail store ,By analyzing the various parameters in the data received we seek to gather enough to make reasonable decisions which then enable us to tell compelling stories around our data from insight gotten and to know the best performance from our data

@@ -11,7 +11,7 @@ group by product
 -----find the number of sales transactions in each region
 ``SQL
 select region,
-sum( REVENUE)as sales_transactions
+count( REVENUE)as sales_transactions
 from[dbo].[sales data]
 group by region
 ``

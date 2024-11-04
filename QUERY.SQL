@@ -78,9 +78,9 @@ order by totalpurchase desc
 ---calculating the percentage of total sales contributed by each regions
 ``SQL
 SELECT REGION,
-SUM(REVENUE) AS TOTAL_SALES
-(SUM(REVENUE)/(SELECT SUM(REVENUE)FROM[dbo].[sales data]* 100) AS PERCENTAGE_OF_TOTAL_SALES
-FROM[dbo].[sales data]
+SUM(REVENUE)AS TOTAL_SALES,
+(SUM(REVENUE) *1.0 /(SELECT SUM(REVENUE)FROM[dbo].[sales data]) * 100) as percentagetotalsales
+from[dbo].[sales data]
 GROUP BY REGION
 ``
 
